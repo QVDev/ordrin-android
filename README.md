@@ -1,4 +1,4 @@
 ordrin-android
 ==============
 
-Android ordr.in clioent
+Android ordr.in client
